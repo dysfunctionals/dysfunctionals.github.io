@@ -1,2 +1,2 @@
 # dysfunctionals.github.io
-Amazing New Website
+Our new website. Hosted on github pages.
